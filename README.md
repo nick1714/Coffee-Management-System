@@ -2,7 +2,6 @@
 
 > A full-featured cafe chain management system built on ASP.NET Core 8 MVC
 
-[![Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/Eg-ARTI8crY)
 
 ---
 
